@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite this repository and the associated paper."
+title: "Bayesian Modeling of Skewed Spatio-Temporal Data: Code and Computational Notebooks"
+type: software
+authors:
+  - family-names: "Karimi"
+    given-names: "Omid"
+  - family-names: "Hosseini"
+    given-names: "Fatemeh"
+version: 1.0.0
+url: "https://github.com/omik582004/Bayesian-Modeling-of-Skewed-Spatio-Temporal-JSS1405"
+repository-code: "https://github.com/omik582004/Bayesian-Modeling-of-Skewed-Spatio-Temporal-JSS1405"
+license: MIT
+keywords:
+  - Bayesian inference
+  - spatio-temporal data
+  - flexible closed skew-normal
+  - adaptive Hamiltonian Monte Carlo
+  - Matérn correlation
+  - PM10
